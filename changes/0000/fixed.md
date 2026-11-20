@@ -1,1 +1,2 @@
 - Material Symbols icons draw again when a document also names an icon outside the Material Symbols alphabet, such as `arrow-left`; that one name no longer makes Google refuse the whole font request.
+- `.pen` line and path layers that fill their card, such as sparklines in a metric card, draw at the card's width instead of collapsing to nothing.
